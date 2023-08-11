@@ -1,0 +1,13 @@
+﻿<Window x:Class="B1_TestTask_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:B1_TestTask_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Width="150" Height="30" Content="Merging and removal files" Click="Button_Click" Margin="325,77,325,327" />
+        <Button Width="150" Height="30" Content="Import files to database" Click="Button_Click_Import" Margin="325,241,325,163" />
+    </Grid>
+</Window>
