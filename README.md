@@ -1,5 +1,6 @@
 # Задание 1
-## использовался Sqlite
+## использовался Sqlite. 
+## Запись проекта https://drive.google.com/file/d/1duLtCme-wBBfghXSCx5-Fj-bu8FYo0vp/view?usp=sharing
 - Окно при старте. 
 ![image](images/2023-08-10_17-55-04.png)
 
